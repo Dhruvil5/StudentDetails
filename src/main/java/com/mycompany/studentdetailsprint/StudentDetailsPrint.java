@@ -26,6 +26,7 @@ public class StudentDetailsPrint {
                 System.out.println(list[i].getName()+ " " +list[i].getAge());
        }
             // change wednesday
+        //push operation 
         
     }
 }
